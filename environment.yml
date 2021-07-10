@@ -1,0 +1,18 @@
+channel_priority: strict
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - urllib
+  - mecab-python3
+  - bs4
+  - joblib
+  - threadpoolctl
+  - scikit-learn
+  - openpyxl
+  - camelot-py
+  - r-base=3.6
+  - r-tidyverse
