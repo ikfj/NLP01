@@ -1,9 +1,5 @@
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - scipy
-  - matplotlib
-  - pandas
   - mecab-python3
   - unidic-lite
