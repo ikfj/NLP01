@@ -3,3 +3,5 @@ channels:
 dependencies:
   - mecab-python3
   - unidic-lite
+  - pip:
+    - unidic
