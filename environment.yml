@@ -2,4 +2,4 @@ channels:
   - conda-forge
 dependencies:
   - mecab-python3
-  - unidic-lite
+  - unidic
